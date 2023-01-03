@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154728003852",
+    "project_id": "neatch-6b3ff",
+    "storage_bucket": "neatch-6b3ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154728003852:android:72508097965810279f7129",
+        "android_client_info": {
+          "package_name": "fr.valentincourcoux.neatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154728003852-k7hv69gsros608s3h1c59lo9p7furjf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK9msDIeif3EE5lVqqkqr_z-2foJBNWoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154728003852-k7hv69gsros608s3h1c59lo9p7furjf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
